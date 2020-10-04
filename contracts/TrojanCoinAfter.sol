@@ -65,8 +65,7 @@ interface SynthetixExchange {
         }
 
 
-
-
+       
         function getAnswers() public view returns(uint256){
 
            uint256 toRate4 = se.effectiveValue(0x7355534400000000000000000000000000000000000000000000000000000000, 100000, 0x7345544800000000000000000000000000000000000000000000000000000000);

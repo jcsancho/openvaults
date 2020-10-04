@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bytes32",
+						"name": "from",
+						"type": "bytes32"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bytes32",
+						"name": "to",
+						"type": "bytes32"
+					}
+				],
+				"name": "effectiveValue",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"localhost/contracts/TrojanCoinAfter.sol": "SynthetixExchange"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"localhost/contracts/TrojanCoinAfter.sol": {
+			"keccak256": "0x67df9937bd4f7ee43352596413ea2d9cbc1bd3c84d6ff7f959622dfd292e2595",
+			"urls": [
+				"bzz-raw://88cdfdbc5968deb5232638117d3e71a9477b4fbd9e19331c2b8409551b5883ca",
+				"dweb:/ipfs/QmVtyhaStZP6cLa3AZa7UkoBw7doz8eQtRsWcf6DZnDhXm"
+			]
+		},
+		"localhost/contracts/interfaces/basic/ERC20.sol": {
+			"keccak256": "0xf748d2d74575f124fc23e6203be7d4268174a8ec49ca0cef813e9bf1a1e1b520",
+			"urls": [
+				"bzz-raw://7c1e26553b32f8b1e605d85d48fa7625e15e63bfb2eb91e0f0493f1c87056db4",
+				"dweb:/ipfs/QmfDBkHVFs11yzY47Yv6EP1TXHyWxUig25GpuZcUQsex21"
+			]
+		},
+		"localhost/contracts/interfaces/basic/safemath.sol": {
+			"keccak256": "0x2a8c6b570ec0f30918013904eb7f003e65a01a69d428bbfc423323d55d5629c7",
+			"urls": [
+				"bzz-raw://72ed84235757992b603ed78ebea6369a97348c495af6097885edc318611477eb",
+				"dweb:/ipfs/QmT2niFXWi5A8cq9BrKtxmSNCJaNmKN9YjFnnvYaxH6Rhz"
+			]
+		}
+	},
+	"version": 1
+}

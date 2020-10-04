@@ -1,7 +1,7 @@
 require("dotenv").config();
-var yourArchiveNodeURL = "INSERT HERE";
-var yourPrivateKey = "INSERT HERE or get env var";
-if(yourArchiveNodeURL == "INSERT HERE"){
+var yourArchiveNodeURL = "https://sandbox.truffleteams.com/6e25794f-8ce4-4986-b08f-f451906eb2a6";
+var yourPrivateKey = "plunge poverty jelly blur quarter ask design wash wealth zero obvious phone";
+if(yourArchiveNodeURL == ""){
   console.log("Oops! Set your archive node and private key! This won't work well for you unless you update truffle js!!")
 
 }
