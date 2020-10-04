@@ -28,7 +28,6 @@ interface SynthetixExchange {
 
 
 
-
         //variables use in attacks later
         bool updateSupplyActivated = false;
         bool reentryActivated = false;

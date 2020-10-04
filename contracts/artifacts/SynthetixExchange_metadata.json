@@ -59,10 +59,10 @@
 	},
 	"sources": {
 		"localhost/contracts/TrojanCoinAfter.sol": {
-			"keccak256": "0x67df9937bd4f7ee43352596413ea2d9cbc1bd3c84d6ff7f959622dfd292e2595",
+			"keccak256": "0x4bbdb7d25874c73af3bf8a0710de7ce759f21f4dd694890016f0139638b7bcb9",
 			"urls": [
-				"bzz-raw://88cdfdbc5968deb5232638117d3e71a9477b4fbd9e19331c2b8409551b5883ca",
-				"dweb:/ipfs/QmVtyhaStZP6cLa3AZa7UkoBw7doz8eQtRsWcf6DZnDhXm"
+				"bzz-raw://512fe28cb8d35b138a9369b373bbed8f0966e4db0cfbe5e31e5d93f3941ee017",
+				"dweb:/ipfs/QmVDvrnVfft5cCqRRJtNbLNR9LARh4dVsMBQCMmzB1jbYC"
 			]
 		},
 		"localhost/contracts/interfaces/basic/ERC20.sol": {
