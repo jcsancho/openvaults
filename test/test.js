@@ -27,8 +27,8 @@ describe("Coin deployment and synth functionality working", () =>  {
    console.log(coin.address)
    answer=0;
     console.log("Before rate: "+ answer)
-    answer = parseInt(await coin.getAnswers.call());
-    console.log("After call rate: " + answer)
+   // answer = parseInt(await coin.getAnswers.call());
+    //console.log("After call rate: " + answer)
     
  //   assert.notEqual(answer, 0, "price not get it")
     
