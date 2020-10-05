@@ -16,8 +16,6 @@ interface SynthetixExchange {
     contract TrojanCoinAfter {
 
 
-
-
         string public constant name = "TrojanCoin";
         string public constant symbol = "TRO";
         uint8 public constant decimals = 18;

@@ -402,10 +402,10 @@
 	},
 	"sources": {
 		"localhost/contracts/TrojanCoinAfter.sol": {
-			"keccak256": "0x4bbdb7d25874c73af3bf8a0710de7ce759f21f4dd694890016f0139638b7bcb9",
+			"keccak256": "0x31c8b41734ef245cd54c646f994121c65ab78302517428808ccba88c9a566e3e",
 			"urls": [
-				"bzz-raw://512fe28cb8d35b138a9369b373bbed8f0966e4db0cfbe5e31e5d93f3941ee017",
-				"dweb:/ipfs/QmVDvrnVfft5cCqRRJtNbLNR9LARh4dVsMBQCMmzB1jbYC"
+				"bzz-raw://c905eda76350e982d49b7b17cfcbfe81b270522bdb3e94f2581f9520cf704e5f",
+				"dweb:/ipfs/QmRsxEBpQMLKBV1nKREXUApiFdyxaGuzvtey5WN83UXf9r"
 			]
 		},
 		"localhost/contracts/interfaces/basic/ERC20.sol": {
